@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access"
-AuthUserFile "/app/.htpassword"
+AuthUserFile "haukai/pages/Private/.htaccess"
 Require valid-user
